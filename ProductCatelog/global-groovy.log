@@ -1,0 +1,50 @@
+2021-05-28 10:34:00,569 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PRODUCT.PRODNAME>MicroPhone</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66661</PRODUCT.SKUID>
+        </Row>
+        <Row rowNumber="2">
+            <PRODUCT.PRODNAME>telescope</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66662</PRODUCT.SKUID>
+        </Row>
+        <Row rowNumber="3">
+            <PRODUCT.PRODNAME>microscope</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66663</PRODUCT.SKUID>
+        </Row>
+        <Row rowNumber="4">
+            <PRODUCT.PRODNAME>oxymeter</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66664</PRODUCT.SKUID>
+        </Row>
+    </ResultSet>
+</Results>
+
+2021-05-28 10:34:00,802 INFO  [log] 4
+2021-05-28 10:34:00,811 INFO  [log] 4
+2021-05-28 10:34:16,030 INFO  [log] Valid SKU ID SKU66661
+2021-05-28 10:34:17,726 INFO  [log] true
+2021-05-28 10:34:17,727 INFO  [log] the product with sku id SKU66661 is deleted successfully
+2021-05-28 10:34:17,738 INFO  [log] FINISHED
+2021-05-28 10:34:17,739 INFO  [log] 16821
+2021-05-28 10:34:17,780 INFO  [log] 5
+2021-05-28 10:34:19,262 INFO  [log] Valid SKU ID SKU66662
+2021-05-28 10:34:20,657 INFO  [log] true
+2021-05-28 10:34:20,657 INFO  [log] the product with sku id SKU66662 is deleted successfully
+2021-05-28 10:34:20,659 INFO  [log] FINISHED
+2021-05-28 10:34:20,660 INFO  [log] 2828
+2021-05-28 10:34:20,661 INFO  [log] 5
+2021-05-28 10:34:22,317 INFO  [log] Valid SKU ID SKU66663
+2021-05-28 10:34:23,723 INFO  [log] true
+2021-05-28 10:34:23,723 INFO  [log] the product with sku id SKU66663 is deleted successfully
+2021-05-28 10:34:23,724 INFO  [log] FINISHED
+2021-05-28 10:34:23,724 INFO  [log] 3041
+2021-05-28 10:34:23,725 INFO  [log] 5
+2021-05-28 10:34:25,574 INFO  [log] Valid SKU ID SKU66664
+2021-05-28 10:34:26,793 INFO  [log] true
+2021-05-28 10:34:26,796 INFO  [log] the product with sku id SKU66664 is deleted successfully
+2021-05-28 10:34:26,804 INFO  [log] FINISHED
+2021-05-28 10:34:26,805 INFO  [log] 3052
+2021-05-28 10:34:26,805 INFO  [log] 5
+2021-05-28 10:34:30,106 INFO  [log] Valid SKU ID SKU66664
+2021-05-28 10:34:31,415 INFO  [log] true
+2021-05-28 10:34:31,415 INFO  [log] the product with sku id SKU66664 is deleted successfully

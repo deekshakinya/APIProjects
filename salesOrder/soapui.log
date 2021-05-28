@@ -1,0 +1,197 @@
+2021-05-28 10:37:38,180 WARN  [SoapUI] Missing folder [C:\Users\DeekshaKinya\Desktop\HandsOn Project\salesOrder\ext] for external libraries
+2021-05-28 10:37:38,422 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DeekshaKinya\soapui-settings.xml]
+2021-05-28 10:37:39,655 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DeekshaKinya/Desktop/HandsOn%20Project/salesOrder/SoapProject2-SalesOrder-soapui-project.xml]
+2021-05-28 10:37:40,080 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SoapProject2-SalesOrder]
+2021-05-28 10:37:40,082 INFO  [SoapUITestCaseRunner] Running Project [SoapProject2-SalesOrder], runType = SEQUENTIAL
+2021-05-28 10:37:40,101 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:40,149 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:40,203 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:50,287 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:50,288 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:50,288 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:50,862 INFO  [log] The SKU Id  SKU00202 is for the order  2517 is created Successfully
+2021-05-28 10:37:50,866 INFO  [log] Sku id is SKU00202 valid Order.
+2021-05-28 10:37:50,867 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 10704ms, status: FINISHED
+2021-05-28 10:37:50,873 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [SalesOrder2DataDriven]
+2021-05-28 10:37:50,877 INFO  [SoapUITestCaseRunner] running step [SalesOrderDataDriven]
+2021-05-28 10:37:51,184 INFO  [log] SKUId
+2021-05-28 10:37:51,185 INFO  [log] SKU00200
+2021-05-28 10:37:51,198 INFO  [log] The number of rows are 12 and The number of Column is 4
+2021-05-28 10:37:51,201 INFO  [log] SKU00200
+2021-05-28 10:37:51,203 INFO  [log] 5
+2021-05-28 10:37:51,204 INFO  [log] 3
+2021-05-28 10:37:51,204 INFO  [log] 450
+2021-05-28 10:37:51,254 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:51,254 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:51,256 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:52,616 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:52,616 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:52,618 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:52,623 INFO  [log] The SKU Id  SKU00200 is for the order  2518 is created Successfully
+2021-05-28 10:37:52,642 INFO  [log] Sku id is SKU00200 valid Order.
+2021-05-28 10:37:52,645 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1382ms, status: FINISHED
+2021-05-28 10:37:52,649 INFO  [log] FINISHED
+2021-05-28 10:37:52,650 INFO  [log] 1382
+2021-05-28 10:37:52,658 INFO  [log] 3
+2021-05-28 10:37:52,658 INFO  [log] SKU00201
+2021-05-28 10:37:52,659 INFO  [log] 6
+2021-05-28 10:37:52,660 INFO  [log] 10
+2021-05-28 10:37:52,660 INFO  [log] 300
+2021-05-28 10:37:52,661 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:52,661 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:52,662 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:53,842 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:53,843 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:53,846 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:53,852 INFO  [log] The SKU Id  SKU00201 is for the order  2519 is created Successfully
+2021-05-28 10:37:53,852 INFO  [log] Sku id is SKU00201 valid Order.
+2021-05-28 10:37:53,853 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1185ms, status: FINISHED
+2021-05-28 10:37:53,854 INFO  [log] FINISHED
+2021-05-28 10:37:53,855 INFO  [log] 1185
+2021-05-28 10:37:53,855 INFO  [log] 3
+2021-05-28 10:37:53,855 INFO  [log] SKU00202
+2021-05-28 10:37:53,856 INFO  [log] 2
+2021-05-28 10:37:53,856 INFO  [log] 5
+2021-05-28 10:37:53,857 INFO  [log] 200
+2021-05-28 10:37:53,858 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:53,858 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:53,860 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:55,284 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:55,285 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:55,288 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:55,295 INFO  [log] The SKU Id  SKU00202 is for the order  2520 is created Successfully
+2021-05-28 10:37:55,295 INFO  [log] Sku id is SKU00202 valid Order.
+2021-05-28 10:37:55,296 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1427ms, status: FINISHED
+2021-05-28 10:37:55,297 INFO  [log] FINISHED
+2021-05-28 10:37:55,297 INFO  [log] 1427
+2021-05-28 10:37:55,298 INFO  [log] 3
+2021-05-28 10:37:55,298 INFO  [log] SKU00203
+2021-05-28 10:37:55,299 INFO  [log] 2
+2021-05-28 10:37:55,300 INFO  [log] 5
+2021-05-28 10:37:55,302 INFO  [log] 200
+2021-05-28 10:37:55,305 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:55,306 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:55,309 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:56,712 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:56,712 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:56,713 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:56,716 INFO  [log] The SKU Id  SKU00203 is for the order  2521 is created Successfully
+2021-05-28 10:37:56,716 INFO  [log] Sku id is SKU00203 valid Order.
+2021-05-28 10:37:56,717 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1404ms, status: FINISHED
+2021-05-28 10:37:56,720 INFO  [log] FINISHED
+2021-05-28 10:37:56,721 INFO  [log] 1404
+2021-05-28 10:37:56,725 INFO  [log] 3
+2021-05-28 10:37:56,726 INFO  [log] SKU00204
+2021-05-28 10:37:56,727 INFO  [log] 3
+2021-05-28 10:37:56,728 INFO  [log] 5
+2021-05-28 10:37:56,729 INFO  [log] 200
+2021-05-28 10:37:56,730 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:56,730 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:56,731 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:58,001 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:58,001 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:58,003 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:58,009 INFO  [log] The SKU Id  SKU00204 is for the order  2522 is created Successfully
+2021-05-28 10:37:58,009 INFO  [log] Sku id is SKU00204 valid Order.
+2021-05-28 10:37:58,010 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1273ms, status: FINISHED
+2021-05-28 10:37:58,012 INFO  [log] FINISHED
+2021-05-28 10:37:58,014 INFO  [log] 1273
+2021-05-28 10:37:58,015 INFO  [log] 3
+2021-05-28 10:37:58,016 INFO  [log] SKU00205
+2021-05-28 10:37:58,020 INFO  [log] 4
+2021-05-28 10:37:58,020 INFO  [log] 5
+2021-05-28 10:37:58,021 INFO  [log] 200
+2021-05-28 10:37:58,022 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:58,022 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:58,023 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:37:59,241 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:37:59,242 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:37:59,243 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:37:59,251 INFO  [log] The SKU Id  SKU00205 is for the order  2523 is created Successfully
+2021-05-28 10:37:59,252 INFO  [log] Sku id is SKU00205 valid Order.
+2021-05-28 10:37:59,252 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1222ms, status: FINISHED
+2021-05-28 10:37:59,253 INFO  [log] FINISHED
+2021-05-28 10:37:59,253 INFO  [log] 1222
+2021-05-28 10:37:59,254 INFO  [log] 3
+2021-05-28 10:37:59,254 INFO  [log] SKU00206
+2021-05-28 10:37:59,255 INFO  [log] 5
+2021-05-28 10:37:59,255 INFO  [log] 5
+2021-05-28 10:37:59,256 INFO  [log] 200
+2021-05-28 10:37:59,257 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:37:59,258 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:37:59,259 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:38:01,008 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:38:01,008 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:38:01,008 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:38:01,015 INFO  [log] The SKU Id  SKU00206 is for the order  2524 is created Successfully
+2021-05-28 10:38:01,016 INFO  [log] Sku id is SKU00206 valid Order.
+2021-05-28 10:38:01,016 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1748ms, status: FINISHED
+2021-05-28 10:38:01,017 INFO  [log] FINISHED
+2021-05-28 10:38:01,017 INFO  [log] 1748
+2021-05-28 10:38:01,018 INFO  [log] 3
+2021-05-28 10:38:01,018 INFO  [log] SKU00207
+2021-05-28 10:38:01,019 INFO  [log] 6
+2021-05-28 10:38:01,019 INFO  [log] 5
+2021-05-28 10:38:01,020 INFO  [log] 200
+2021-05-28 10:38:01,021 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:38:01,021 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:38:01,022 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:38:02,069 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:38:02,070 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:38:02,071 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:38:02,076 INFO  [log] The SKU Id  SKU00207 is for the order  2525 is created Successfully
+2021-05-28 10:38:02,077 INFO  [log] Sku id is SKU00207 valid Order.
+2021-05-28 10:38:02,078 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1052ms, status: FINISHED
+2021-05-28 10:38:02,082 INFO  [log] FINISHED
+2021-05-28 10:38:02,082 INFO  [log] 1052
+2021-05-28 10:38:02,083 INFO  [log] 3
+2021-05-28 10:38:02,083 INFO  [log] SKU00208
+2021-05-28 10:38:02,084 INFO  [log] 7
+2021-05-28 10:38:02,084 INFO  [log] 5
+2021-05-28 10:38:02,085 INFO  [log] 200
+2021-05-28 10:38:02,086 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:38:02,086 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:38:02,087 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:38:03,466 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:38:03,466 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:38:03,469 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:38:03,472 INFO  [log] The SKU Id  SKU00208 is for the order  2526 is created Successfully
+2021-05-28 10:38:03,473 INFO  [log] Sku id is SKU00208 valid Order.
+2021-05-28 10:38:03,474 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1381ms, status: FINISHED
+2021-05-28 10:38:03,474 INFO  [log] FINISHED
+2021-05-28 10:38:03,475 INFO  [log] 1381
+2021-05-28 10:38:03,475 INFO  [log] 3
+2021-05-28 10:38:03,476 INFO  [log] SKU00209
+2021-05-28 10:38:03,476 INFO  [log] 8
+2021-05-28 10:38:03,477 INFO  [log] 5
+2021-05-28 10:38:03,478 INFO  [log] 200
+2021-05-28 10:38:03,482 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:38:03,482 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:38:03,484 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:38:04,700 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:38:04,701 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:38:04,702 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:38:04,710 INFO  [log] The SKU Id  SKU00209 is for the order  2527 is created Successfully
+2021-05-28 10:38:04,710 INFO  [log] Sku id is SKU00209 valid Order.
+2021-05-28 10:38:04,711 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1219ms, status: FINISHED
+2021-05-28 10:38:04,712 INFO  [log] FINISHED
+2021-05-28 10:38:04,712 INFO  [log] 1219
+2021-05-28 10:38:04,714 INFO  [log] 3
+2021-05-28 10:38:04,718 INFO  [log] SKU00210
+2021-05-28 10:38:04,722 INFO  [log] 9
+2021-05-28 10:38:04,723 INFO  [log] 5
+2021-05-28 10:38:04,725 INFO  [log] 200
+2021-05-28 10:38:04,725 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [salesOrder1]
+2021-05-28 10:38:04,726 INFO  [SoapUITestCaseRunner] running step [orderProperties]
+2021-05-28 10:38:04,726 INFO  [SoapUITestCaseRunner] running step [SaveOrder]
+2021-05-28 10:38:05,820 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:38:05,820 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:38:05,821 INFO  [SoapUITestCaseRunner] running step [ValidateOrders]
+2021-05-28 10:38:05,824 INFO  [log] The SKU Id  SKU00210 is for the order  2528 is created Successfully
+2021-05-28 10:38:05,825 INFO  [log] Sku id is SKU00210 valid Order.
+2021-05-28 10:38:05,826 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [salesOrder1], time taken: 1095ms, status: FINISHED
+2021-05-28 10:38:05,826 INFO  [log] FINISHED
+2021-05-28 10:38:05,827 INFO  [log] 1095
+2021-05-28 10:38:05,827 INFO  [log] 3
+2021-05-28 10:38:05,829 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [SalesOrder2DataDriven], time taken: 14952ms, status: FINISHED
+2021-05-28 10:38:05,836 INFO  [SoapUITestCaseRunner] Project [SoapProject2-SalesOrder] finished with status [FINISHED] in 25749ms

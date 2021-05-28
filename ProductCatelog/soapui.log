@@ -1,0 +1,141 @@
+2021-05-28 10:33:57,578 WARN  [SoapUI] Missing folder [C:\Users\DeekshaKinya\Desktop\HandsOn Project\ProductCatelog\ext] for external libraries
+2021-05-28 10:33:57,918 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DeekshaKinya\soapui-settings.xml]
+2021-05-28 10:33:59,068 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DeekshaKinya/Desktop/HandsOn%20Project/ProductCatelog/SoapProject3-CatelogeProduct-soapui-project.xml]
+2021-05-28 10:33:59,622 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SoapProject3-CatelogeProduct]
+2021-05-28 10:33:59,625 INFO  [SoapUITestCaseRunner] Running Project [SoapProject3-CatelogeProduct], runType = SEQUENTIAL
+2021-05-28 10:33:59,649 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [ProductCatalog1]
+2021-05-28 10:33:59,673 INFO  [SoapUITestCaseRunner] running step [ProductDataBase]
+2021-05-28 10:34:00,091 INFO  [SoapUITestCaseRunner] running step [createProductusingdatabase]
+2021-05-28 10:34:00,569 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PRODUCT.PRODNAME>MicroPhone</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66661</PRODUCT.SKUID>
+        </Row>
+        <Row rowNumber="2">
+            <PRODUCT.PRODNAME>telescope</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66662</PRODUCT.SKUID>
+        </Row>
+        <Row rowNumber="3">
+            <PRODUCT.PRODNAME>microscope</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66663</PRODUCT.SKUID>
+        </Row>
+        <Row rowNumber="4">
+            <PRODUCT.PRODNAME>oxymeter</PRODUCT.PRODNAME>
+            <PRODUCT.SKUID>SKU66664</PRODUCT.SKUID>
+        </Row>
+    </ResultSet>
+</Results>
+
+2021-05-28 10:34:00,802 INFO  [log] 4
+2021-05-28 10:34:00,811 INFO  [log] 4
+2021-05-28 10:34:00,877 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [productCatelog2]
+2021-05-28 10:34:00,894 INFO  [SoapUITestCaseRunner] running step [catelogProperties]
+2021-05-28 10:34:00,903 INFO  [SoapUITestCaseRunner] running step [createProduct]
+2021-05-28 10:34:15,368 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2021-05-28 10:34:15,411 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2021-05-28 10:34:15,421 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2021-05-28 10:34:15,424 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2021-05-28 10:34:15,427 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2021-05-28 10:34:15,430 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2021-05-28 10:34:15,434 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2021-05-28 10:34:15,443 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2021-05-28 10:34:15,446 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2021-05-28 10:34:15,454 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2021-05-28 10:34:15,460 INFO  [SchemaUtils] Loading schema types from [file:\C:\Users\DeekshaKinya\Desktop\SOAPPRoject\SOAP%20API%20WSDL%20EndPoints\catalogProductRepositoryV1.xml]
+2021-05-28 10:34:15,461 INFO  [SchemaUtils] Getting schema file:\C:\Users\DeekshaKinya\Desktop\SOAPPRoject\SOAP%20API%20WSDL%20EndPoints\catalogProductRepositoryV1.xml
+2021-05-28 10:34:15,958 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:15,959 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:15,960 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:15,962 INFO  [SoapUITestCaseRunner] running step [validateProductCatelog]
+2021-05-28 10:34:16,030 INFO  [log] Valid SKU ID SKU66661
+2021-05-28 10:34:16,031 INFO  [SoapUITestCaseRunner] running step [deleteProduct]
+2021-05-28 10:34:17,691 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:17,691 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:17,692 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:17,692 INFO  [SoapUITestCaseRunner] running step [validateDeletedPRoductID]
+2021-05-28 10:34:17,726 INFO  [log] true
+2021-05-28 10:34:17,727 INFO  [log] the product with sku id SKU66661 is deleted successfully
+2021-05-28 10:34:17,730 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [productCatelog2], time taken: 16821ms, status: FINISHED
+2021-05-28 10:34:17,738 INFO  [log] FINISHED
+2021-05-28 10:34:17,739 INFO  [log] 16821
+2021-05-28 10:34:17,780 INFO  [log] 5
+2021-05-28 10:34:17,812 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [productCatelog2]
+2021-05-28 10:34:17,813 INFO  [SoapUITestCaseRunner] running step [catelogProperties]
+2021-05-28 10:34:17,814 INFO  [SoapUITestCaseRunner] running step [createProduct]
+2021-05-28 10:34:19,253 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:19,254 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:19,258 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:19,259 INFO  [SoapUITestCaseRunner] running step [validateProductCatelog]
+2021-05-28 10:34:19,262 INFO  [log] Valid SKU ID SKU66662
+2021-05-28 10:34:19,262 INFO  [SoapUITestCaseRunner] running step [deleteProduct]
+2021-05-28 10:34:20,647 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:20,647 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:20,649 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:20,652 INFO  [SoapUITestCaseRunner] running step [validateDeletedPRoductID]
+2021-05-28 10:34:20,657 INFO  [log] true
+2021-05-28 10:34:20,657 INFO  [log] the product with sku id SKU66662 is deleted successfully
+2021-05-28 10:34:20,658 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [productCatelog2], time taken: 2828ms, status: FINISHED
+2021-05-28 10:34:20,659 INFO  [log] FINISHED
+2021-05-28 10:34:20,660 INFO  [log] 2828
+2021-05-28 10:34:20,661 INFO  [log] 5
+2021-05-28 10:34:20,664 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [productCatelog2]
+2021-05-28 10:34:20,666 INFO  [SoapUITestCaseRunner] running step [catelogProperties]
+2021-05-28 10:34:20,667 INFO  [SoapUITestCaseRunner] running step [createProduct]
+2021-05-28 10:34:22,286 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:22,286 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:22,288 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:22,289 INFO  [SoapUITestCaseRunner] running step [validateProductCatelog]
+2021-05-28 10:34:22,317 INFO  [log] Valid SKU ID SKU66663
+2021-05-28 10:34:22,318 INFO  [SoapUITestCaseRunner] running step [deleteProduct]
+2021-05-28 10:34:23,716 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:23,716 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:23,717 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:23,718 INFO  [SoapUITestCaseRunner] running step [validateDeletedPRoductID]
+2021-05-28 10:34:23,723 INFO  [log] true
+2021-05-28 10:34:23,723 INFO  [log] the product with sku id SKU66663 is deleted successfully
+2021-05-28 10:34:23,723 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [productCatelog2], time taken: 3041ms, status: FINISHED
+2021-05-28 10:34:23,724 INFO  [log] FINISHED
+2021-05-28 10:34:23,724 INFO  [log] 3041
+2021-05-28 10:34:23,725 INFO  [log] 5
+2021-05-28 10:34:23,729 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [productCatelog2]
+2021-05-28 10:34:23,731 INFO  [SoapUITestCaseRunner] running step [catelogProperties]
+2021-05-28 10:34:23,732 INFO  [SoapUITestCaseRunner] running step [createProduct]
+2021-05-28 10:34:25,567 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:25,567 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:25,568 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:25,572 INFO  [SoapUITestCaseRunner] running step [validateProductCatelog]
+2021-05-28 10:34:25,574 INFO  [log] Valid SKU ID SKU66664
+2021-05-28 10:34:25,575 INFO  [SoapUITestCaseRunner] running step [deleteProduct]
+2021-05-28 10:34:26,787 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:26,788 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:26,789 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:26,789 INFO  [SoapUITestCaseRunner] running step [validateDeletedPRoductID]
+2021-05-28 10:34:26,793 INFO  [log] true
+2021-05-28 10:34:26,796 INFO  [log] the product with sku id SKU66664 is deleted successfully
+2021-05-28 10:34:26,798 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [productCatelog2], time taken: 3052ms, status: FINISHED
+2021-05-28 10:34:26,804 INFO  [log] FINISHED
+2021-05-28 10:34:26,805 INFO  [log] 3052
+2021-05-28 10:34:26,805 INFO  [log] 5
+2021-05-28 10:34:26,806 INFO  [SoapUITestCaseRunner] running step [createProductCatalog]
+2021-05-28 10:34:28,638 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:28,638 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:28,638 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:28,640 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [ProductCatalog1], time taken: 28952ms, status: FINISHED
+2021-05-28 10:34:28,643 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [productCatelog2]
+2021-05-28 10:34:28,646 INFO  [SoapUITestCaseRunner] running step [catelogProperties]
+2021-05-28 10:34:28,647 INFO  [SoapUITestCaseRunner] running step [createProduct]
+2021-05-28 10:34:30,100 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:30,101 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:30,101 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:30,102 INFO  [SoapUITestCaseRunner] running step [validateProductCatelog]
+2021-05-28 10:34:30,106 INFO  [log] Valid SKU ID SKU66664
+2021-05-28 10:34:30,108 INFO  [SoapUITestCaseRunner] running step [deleteProduct]
+2021-05-28 10:34:31,405 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 10:34:31,406 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 10:34:31,407 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 10:34:31,412 INFO  [SoapUITestCaseRunner] running step [validateDeletedPRoductID]
+2021-05-28 10:34:31,415 INFO  [log] true
+2021-05-28 10:34:31,415 INFO  [log] the product with sku id SKU66664 is deleted successfully
+2021-05-28 10:34:31,416 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [productCatelog2], time taken: 2752ms, status: FINISHED
+2021-05-28 10:34:31,418 INFO  [SoapUITestCaseRunner] Project [SoapProject3-CatelogeProduct] finished with status [FINISHED] in 31785ms

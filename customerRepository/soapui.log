@@ -1,0 +1,42 @@
+2021-05-28 11:04:41,978 WARN  [SoapUI] Missing folder [C:\Users\DeekshaKinya\Desktop\HandsOn Project\customerRepository\ext] for external libraries
+2021-05-28 11:04:42,195 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DeekshaKinya\soapui-settings.xml]
+2021-05-28 11:04:43,507 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DeekshaKinya/Desktop/HandsOn%20Project/customerRepository/SoapProject-soapui-project.xml]
+2021-05-28 11:04:43,979 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SoapProject1-customerRepository]
+2021-05-28 11:04:43,981 INFO  [SoapUITestCaseRunner] Running Project [SoapProject1-customerRepository], runType = SEQUENTIAL
+2021-05-28 11:04:44,020 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [CustomerTestCase1]
+2021-05-28 11:04:44,032 INFO  [SoapUITestCaseRunner] running step [customerProperties]
+2021-05-28 11:04:44,082 INFO  [SoapUITestCaseRunner] running step [customerPropertyTransfer]
+2021-05-28 11:04:44,439 INFO  [SoapUITestCaseRunner] running step [CreateCustomer]
+2021-05-28 11:04:46,726 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2021-05-28 11:04:46,749 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2021-05-28 11:04:46,758 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2021-05-28 11:04:46,760 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2021-05-28 11:04:46,765 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2021-05-28 11:04:46,767 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2021-05-28 11:04:46,775 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2021-05-28 11:04:46,779 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2021-05-28 11:04:46,782 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2021-05-28 11:04:46,787 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DeekshaKinya/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2021-05-28 11:04:46,792 INFO  [SchemaUtils] Loading schema types from [file:\C:\Users\DeekshaKinya\Desktop\SOAPPRoject\SOAP%20API%20WSDL%20EndPoints\customerCustomerRepositoryV1.xml]
+2021-05-28 11:04:46,793 INFO  [SchemaUtils] Getting schema file:\C:\Users\DeekshaKinya\Desktop\SOAPPRoject\SOAP%20API%20WSDL%20EndPoints\customerCustomerRepositoryV1.xml
+2021-05-28 11:04:46,987 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 11:04:46,988 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 11:04:46,989 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 11:04:46,994 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-05-28 11:04:46,994 INFO  [SoapUITestCaseRunner] running step [customerIDTransfer]
+2021-05-28 11:04:47,004 INFO  [SoapUITestCaseRunner] running step [validatecustomerid]
+2021-05-28 11:04:47,390 INFO  [log] The customerid  8461 is for the email  deekshaKiny1456@gmail.com is created Successfully
+2021-05-28 11:04:47,393 INFO  [log] Mail id is deekshaKiny1456@gmail.com valid customer Id.
+2021-05-28 11:04:47,395 INFO  [SoapUITestCaseRunner] running step [getDataByCustId]
+2021-05-28 11:04:48,378 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 11:04:48,378 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 11:04:48,379 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 11:04:48,379 INFO  [SoapUITestCaseRunner] running step [verifyCustomerDetails]
+2021-05-28 11:04:48,423 INFO  [log] Customer First name is verified successfully
+2021-05-28 11:04:48,424 INFO  [SoapUITestCaseRunner] running step [deleteCustomer]
+2021-05-28 11:04:49,613 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-28 11:04:49,613 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-28 11:04:49,614 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-28 11:04:49,618 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-05-28 11:04:49,623 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [CustomerTestCase1], time taken: 5557ms, status: FINISHED
+2021-05-28 11:04:49,625 INFO  [SoapUITestCaseRunner] Project [SoapProject1-customerRepository] finished with status [FINISHED] in 5636ms
